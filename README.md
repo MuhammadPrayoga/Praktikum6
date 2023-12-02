@@ -25,3 +25,7 @@
 - Mengubah Data
 
 ![](gambar/ubah.png)
+
+<h3>Flowchart</h3>
+
+![](gambar/flowchart.png)
