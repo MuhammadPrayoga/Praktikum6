@@ -1,5 +1,5 @@
 # Latihan
-<h1>FUNGSI LAMBDA</h1>
+# $${\color{red}PYTHON}$$
 
 ![](gambar/latihan.png)
 
